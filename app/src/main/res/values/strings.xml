@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Aget</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="date">Date</string>
+    <string name="categorie">Catégorie</string>
+    <string name="type">Type</string>
+    <string name="etat">État</string>
+    <string name="todo">TODO</string>
+    <string name="mes_reclamations">Mes réclamations</string>
+    <string name="nouvelle_r_clamation">Nouvelle réclamation</string>
+    <string name="categorie_de_r_clamation">Catégorie de réclamation</string>
+    <string name="autre">Autre</string>
+    <string name="urgente">Urgente</string>
+    <string name="evoyer_la_r_clamation">Evoyer la réclamation</string>
+    <string name="electrique">Électrique</string>
+    <string name="non_urgente">Non urgente</string>
+    <string name="type_de_r_clamation">Type de réclamation</string>
+    <string name="prendre_une_photo">Prendre une photo</string>
+    <string name="login">logIn</string>
+    <string name="reclamations_assign_es">Reclamations assignées</string>
+    <string name="s_assigner_une_r_clamation">S\'assigner à une réclamation</string>
+    <string name="marquer_comme_trait">Marquer comme traitée</string>
+    <string name="reclamations_non_assign_es">Reclamations non assignées</string>
+    <string name="s_assigner_cette_r_clamation">S\'assigner à cette réclamation</string>
+    <string name="pane">Panne</string>
+    <string name="eau">Eau</string>
+    <string name="incendie">Incendie</string>
+    <string name="sonorisation">Sonorisation</string>
+    <string name="d_tails">Détails</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="change_password">Change password</string>
+    <string name="log_out">Log out</string>
+    <string name="old_password">Old password</string>
+    <string name="new_password">New Password</string>
+    <string name="home">Home</string>
+</resources>
